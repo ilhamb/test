@@ -1,2 +1,8 @@
 <!-- Essai Commit
 Exercice command line -->
+<!DOCTYPE html>
+<html>
+
+
+
+</html>
